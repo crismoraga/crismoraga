@@ -5,7 +5,9 @@
   Estudiante de Ingeniería Civil en Telemática 🚀
 </p>
 
-<img align="center" src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif?cid=ecf05e47d0sr6ztd1vdjsg0ih1rbrg2ici50caz3g0jeytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" alt="Coding GIF" />
+<img align="center" src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif?cid=ecf05e47d0sr6ztd1vdjsg0ih1rbrg2ici50caz3g0jeytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="1000" alt="Coding GIF" />
+
+<img align="center" src= "https://media.giphy.com/media/dDwicM3uFUqfC/giphy.gif?cid=ecf05e47uspkjp3xmayfrbmssl4ntggjbz3tbsdg4cesio6h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="1000" alt="Coding GIF" />
 
 ---
 
