@@ -5,7 +5,7 @@
   Estudiante de Ingeniería Civil en Telemática 🚀
 </p>
 
-<img src="https://media.giphy.com/media/hvRJCLoE94nzYkwQ5l/giphy.gif" width="300" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/zyFcsWHX2fdpyb5SBi/giphy.gif?cid=ecf05e47d0sr6ztd1vdjsg0ih1rbrg2ici50caz3g0jeytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" alt="Coding GIF" />
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🚀 Lenguajes y herramientas
 
-<p>    <strong>Frontend:</strong>
+<p><strong>Frontend:</strong>
 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
