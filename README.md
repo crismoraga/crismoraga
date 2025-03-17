@@ -175,4 +175,11 @@
 ## 🌐 Encuéntrame en:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristobalmoraga"><img src="https://img.shields.io/badge/-LinkedIn-blue?
+<a target="_blank" href="https://www.linkedin.com/in/cristobalmoraga" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+</a>
+
+<a target="_blank" href="https://www.instagram.com/_criscries_" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+</a>
+</p>
